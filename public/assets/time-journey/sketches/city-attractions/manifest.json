@@ -1,0 +1,359 @@
+[
+  {
+    "id": "beijing-001",
+    "city": "北京",
+    "attraction": "天坛",
+    "src": "/assets/time-journey/sketches/city-attractions/beijing-001.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/北京-1.jpg"
+  },
+  {
+    "id": "chengdu-002",
+    "city": "成都",
+    "attraction": "青城山",
+    "src": "/assets/time-journey/sketches/city-attractions/chengdu-002.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/成都-3.jpg"
+  },
+  {
+    "id": "chongqing-003",
+    "city": "重庆",
+    "attraction": "大足石刻",
+    "src": "/assets/time-journey/sketches/city-attractions/chongqing-003.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/重庆-2.jpg"
+  },
+  {
+    "id": "xian-004",
+    "city": "西安",
+    "attraction": "大雁塔",
+    "src": "/assets/time-journey/sketches/city-attractions/xian-004.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/西安-1.jpg"
+  },
+  {
+    "id": "xian-005",
+    "city": "西安",
+    "attraction": "华清宫",
+    "src": "/assets/time-journey/sketches/city-attractions/xian-005.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/西安-3.jpg"
+  },
+  {
+    "id": "suzhou-006",
+    "city": "苏州",
+    "attraction": "拙政园",
+    "src": "/assets/time-journey/sketches/city-attractions/suzhou-006.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/苏州-1.jpg"
+  },
+  {
+    "id": "suzhou-007",
+    "city": "苏州",
+    "attraction": "虎丘",
+    "src": "/assets/time-journey/sketches/city-attractions/suzhou-007.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/苏州-2.jpg"
+  },
+  {
+    "id": "xiamen-008",
+    "city": "厦门",
+    "attraction": "日光岩",
+    "src": "/assets/time-journey/sketches/city-attractions/xiamen-008.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/厦门-1.jpg"
+  },
+  {
+    "id": "qingdao-009",
+    "city": "青岛",
+    "attraction": "八大关",
+    "src": "/assets/time-journey/sketches/city-attractions/qingdao-009.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/青岛-1.jpg"
+  },
+  {
+    "id": "beijing-010",
+    "city": "北京",
+    "attraction": "颐和园",
+    "src": "/assets/time-journey/sketches/city-attractions/beijing-010.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/北京-2.jpg"
+  },
+  {
+    "id": "beijing-011",
+    "city": "北京",
+    "attraction": "北海公园",
+    "src": "/assets/time-journey/sketches/city-attractions/beijing-011.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/北京-3.jpg"
+  },
+  {
+    "id": "shanghai-012",
+    "city": "上海",
+    "attraction": "外滩",
+    "src": "/assets/time-journey/sketches/city-attractions/shanghai-012.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/上海-1.jpg"
+  },
+  {
+    "id": "shanghai-013",
+    "city": "上海",
+    "attraction": "豫园",
+    "src": "/assets/time-journey/sketches/city-attractions/shanghai-013.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/上海-2.jpg"
+  },
+  {
+    "id": "shanghai-014",
+    "city": "上海",
+    "attraction": "朱家角",
+    "src": "/assets/time-journey/sketches/city-attractions/shanghai-014.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/上海-3.jpg"
+  },
+  {
+    "id": "guangzhou-015",
+    "city": "广州",
+    "attraction": "广州塔",
+    "src": "/assets/time-journey/sketches/city-attractions/guangzhou-015.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/广州-1.jpg"
+  },
+  {
+    "id": "guangzhou-016",
+    "city": "广州",
+    "attraction": "陈家祠",
+    "src": "/assets/time-journey/sketches/city-attractions/guangzhou-016.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/广州-2.jpg"
+  },
+  {
+    "id": "chongqing-017",
+    "city": "重庆",
+    "attraction": "磁器口",
+    "src": "/assets/time-journey/sketches/city-attractions/chongqing-017.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/重庆-3.jpg"
+  },
+  {
+    "id": "xiamen-018",
+    "city": "厦门",
+    "attraction": "中山路",
+    "src": "/assets/time-journey/sketches/city-attractions/xiamen-018.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/厦门-3.jpg"
+  },
+  {
+    "id": "qingdao-019",
+    "city": "青岛",
+    "attraction": "崂山",
+    "src": "/assets/time-journey/sketches/city-attractions/qingdao-019.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/青岛-2.jpg"
+  },
+  {
+    "id": "guangzhou-020",
+    "city": "广州",
+    "attraction": "孙中山纪念堂",
+    "src": "/assets/time-journey/sketches/city-attractions/guangzhou-020.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/广州-3.jpg"
+  },
+  {
+    "id": "xiamen-021",
+    "city": "厦门",
+    "attraction": "菽庄花园",
+    "src": "/assets/time-journey/sketches/city-attractions/xiamen-021.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/厦门-2.jpg"
+  },
+  {
+    "id": "xian-022",
+    "city": "西安",
+    "attraction": "西安钟楼",
+    "src": "/assets/time-journey/sketches/city-attractions/xian-022.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/西安-2.jpg"
+  },
+  {
+    "id": "nanjing-023",
+    "city": "南京",
+    "attraction": "音乐台",
+    "src": "/assets/time-journey/sketches/city-attractions/nanjing-023.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/南京-1.jpg"
+  },
+  {
+    "id": "nanjing-024",
+    "city": "南京",
+    "attraction": "总统府",
+    "src": "/assets/time-journey/sketches/city-attractions/nanjing-024.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/南京-2.jpg"
+  },
+  {
+    "id": "nanjing-025",
+    "city": "南京",
+    "attraction": "玄武湖",
+    "src": "/assets/time-journey/sketches/city-attractions/nanjing-025.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/南京-3.jpg"
+  },
+  {
+    "id": "chengdu-026",
+    "city": "成都",
+    "attraction": "武侯祠",
+    "src": "/assets/time-journey/sketches/city-attractions/chengdu-026.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/成都-1.jpg"
+  },
+  {
+    "id": "chengdu-027",
+    "city": "成都",
+    "attraction": "都江堰",
+    "src": "/assets/time-journey/sketches/city-attractions/chengdu-027.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/成都-2.jpg"
+  },
+  {
+    "id": "chongqing-028",
+    "city": "重庆",
+    "attraction": "洪崖洞",
+    "src": "/assets/time-journey/sketches/city-attractions/chongqing-028.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/重庆-1.jpg"
+  },
+  {
+    "id": "suzhou-029",
+    "city": "苏州",
+    "attraction": "同里古镇",
+    "src": "/assets/time-journey/sketches/city-attractions/suzhou-029.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/苏州-3.jpg"
+  },
+  {
+    "id": "qingdao-030",
+    "city": "青岛",
+    "attraction": "小青岛",
+    "src": "/assets/time-journey/sketches/city-attractions/qingdao-030.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/青岛-3.jpg"
+  },
+  {
+    "id": "guangzhou-031",
+    "city": "广州",
+    "attraction": "白云山（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/guangzhou-031.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/广州-旧-白云山.jpg"
+  },
+  {
+    "id": "xian-032",
+    "city": "西安",
+    "attraction": "西安钟楼（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/xian-032.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/西安-旧-钟楼.jpg"
+  },
+  {
+    "id": "nanjing-033",
+    "city": "南京",
+    "attraction": "中山陵（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/nanjing-033.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/南京-旧-中山陵.jpg"
+  },
+  {
+    "id": "nanjing-034",
+    "city": "南京",
+    "attraction": "总统府（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/nanjing-034.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/南京-旧-总统府.jpg"
+  },
+  {
+    "id": "nanjing-035",
+    "city": "南京",
+    "attraction": "玄武湖（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/nanjing-035.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/南京-旧-玄武湖.jpg"
+  },
+  {
+    "id": "xiamen-036",
+    "city": "厦门",
+    "attraction": "厦门大学（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/xiamen-036.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/厦门-旧-厦门大学.jpg"
+  },
+  {
+    "id": "chengdu-037",
+    "city": "成都",
+    "attraction": "武侯祠（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/chengdu-037.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/成都-旧-武侯祠.jpg"
+  },
+  {
+    "id": "chengdu-038",
+    "city": "成都",
+    "attraction": "都江堰（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/chengdu-038.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/成都-旧-都江堰.jpg"
+  },
+  {
+    "id": "chongqing-039",
+    "city": "重庆",
+    "attraction": "洪崖洞（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/chongqing-039.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/重庆-旧-洪崖洞.jpg"
+  },
+  {
+    "id": "suzhou-040",
+    "city": "苏州",
+    "attraction": "同里古镇（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/suzhou-040.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/苏州-旧-同里古镇.jpg"
+  },
+  {
+    "id": "qingdao-041",
+    "city": "青岛",
+    "attraction": "小青岛（旧候选）",
+    "src": "/assets/time-journey/sketches/city-attractions/qingdao-041.png",
+    "sourcePhoto": "./design-assets/city-attraction-references-20260924/photos/青岛-旧-小青岛.jpg"
+  },
+  {
+    "id": "beijing-base",
+    "city": "北京",
+    "attraction": "城市原始素描",
+    "src": "/assets/time-journey/sketches/city-attractions/beijing-base.png",
+    "sourcePhoto": null
+  },
+  {
+    "id": "shanghai-base",
+    "city": "上海",
+    "attraction": "城市原始素描",
+    "src": "/assets/time-journey/sketches/city-attractions/shanghai-base.png",
+    "sourcePhoto": null
+  },
+  {
+    "id": "guangzhou-base",
+    "city": "广州",
+    "attraction": "城市原始素描",
+    "src": "/assets/time-journey/sketches/city-attractions/guangzhou-base.png",
+    "sourcePhoto": null
+  },
+  {
+    "id": "chengdu-base",
+    "city": "成都",
+    "attraction": "城市原始素描",
+    "src": "/assets/time-journey/sketches/city-attractions/chengdu-base.png",
+    "sourcePhoto": null
+  },
+  {
+    "id": "chongqing-base",
+    "city": "重庆",
+    "attraction": "城市原始素描",
+    "src": "/assets/time-journey/sketches/city-attractions/chongqing-base.png",
+    "sourcePhoto": null
+  },
+  {
+    "id": "xian-base",
+    "city": "西安",
+    "attraction": "城市原始素描",
+    "src": "/assets/time-journey/sketches/city-attractions/xian-base.png",
+    "sourcePhoto": null
+  },
+  {
+    "id": "nanjing-base",
+    "city": "南京",
+    "attraction": "城市原始素描",
+    "src": "/assets/time-journey/sketches/city-attractions/nanjing-base.png",
+    "sourcePhoto": null
+  },
+  {
+    "id": "suzhou-base",
+    "city": "苏州",
+    "attraction": "城市原始素描",
+    "src": "/assets/time-journey/sketches/city-attractions/suzhou-base.png",
+    "sourcePhoto": null
+  },
+  {
+    "id": "xiamen-base",
+    "city": "厦门",
+    "attraction": "城市原始素描",
+    "src": "/assets/time-journey/sketches/city-attractions/xiamen-base.png",
+    "sourcePhoto": null
+  },
+  {
+    "id": "qingdao-base",
+    "city": "青岛",
+    "attraction": "城市原始素描",
+    "src": "/assets/time-journey/sketches/city-attractions/qingdao-base.png",
+    "sourcePhoto": null
+  }
+]

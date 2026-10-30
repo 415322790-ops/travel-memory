@@ -1,0 +1,67 @@
+@font-face {
+  font-family: 'PingFang Xiangsi';
+  src: url('/fonts/pingfang-xiangsi.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+:root {
+  --font-display: 'PingFang Xiangsi', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --font-body: 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif;
+  --font-mono: ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+  --site-font: var(--font-display);
+
+  /* Semantic palette defaults for future component use; existing page styles stay independent. */
+  --color-text-primary: #efe9dc;
+  --color-text-secondary: #968f82;
+  --color-border: rgba(239, 233, 220, 0.22);
+  --color-border-light: rgba(239, 233, 220, 0.12);
+  --color-accent: #c8a46a;
+  --color-success: #a8ae91;
+  --color-warning: #d3a75e;
+  --color-error: #c88775;
+
+  /* Common shape, spacing, and control scales. */
+  --radius-sm: 2px;
+  --radius-md: 8px;
+  --radius-lg: 22px;
+  --radius-pill: 999px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+
+  --control-height-sm: 32px;
+  --control-height-md: 40px;
+  --control-height-lg: 44px;
+
+  --focus-ring: 0 0 0 3px rgba(200, 164, 106, 0.38);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #0a0a1a;
+  font-family: var(--font-body);
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}

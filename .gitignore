@@ -1,0 +1,80 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Travel Memory repository defaults
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Cache and tests
+coverage/
+.cache/
+.vite/
+.eslintcache
+
+# Temporary and local user data
+uploads/
+public/uploads/
+src/assets/user-uploads/
+data/local/
+local-data/
+exports/
+temp/
+tmp/
+
+# OS metadata
+Thumbs.db
+desktop.ini
+
+# Development-only design sources
+/design-assets/
+
+# Local reference project (kept on disk, excluded from this repository)
+/film-index-generator-main/
+
+# Sensitive credentials and local archives
+design-assets/**/*.zip
+*.db
+*.sqlite
+*.sqlite3
+*.localdb
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+credentials*.json
+service-account*.json
+
+# Generated documentation site output
+/docs/dist/
